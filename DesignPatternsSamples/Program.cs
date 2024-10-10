@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DesignPatternsSamples.AbstractFactory;
+using DesignPatternsSamples.Factory;
+using DesignPatternsSamples.FactoryMethod;
+
+new FactoryMethodSample();
+
+Console.ReadLine();
